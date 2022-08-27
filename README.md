@@ -1,6 +1,6 @@
 # 3D-design-for-the-humanoid-robot-legs
 
-This is a 3D design for the robot structure legs that we work on in the cooperative training with smartmethods company. The design was made by cinema 4D.
+This is a 3D design for the robot legs (the structure) that we work on in the cooperative training with smartmethods company. The design was made by cinema 4D.
 It was my firts experience with the application so I believe would do better in the future.
 
 ## Initial image of the robot:
